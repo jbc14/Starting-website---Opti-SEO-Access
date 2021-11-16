@@ -1042,3 +1042,20 @@ h4 {
     text-align: center;
   }
 }
+
+.citation {
+  margin-left: 50px;
+  margin-right: 50px;
+  color: black;
+  width: auto;
+}
+
+.citation p {
+  font-size: 2rem;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.citation span {
+
+}
