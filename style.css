@@ -709,6 +709,8 @@ p {
 h2 {
   font-size: 22px;
   line-height: 1.4em;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
 h3 {
@@ -773,15 +775,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  background-color: #C54F16;
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: white !important;
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  background: #C54F16;
   color: #ffffff !important;
 }
 
@@ -799,7 +801,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-  color: #f3976c !important;
+  color: #C54F16 !important;
 }
 
 .ltc-atomic-tangerine:hover {
