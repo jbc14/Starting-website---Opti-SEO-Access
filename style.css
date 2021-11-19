@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.685);
 }
 
 .d-bloc button:hover {
@@ -820,11 +820,11 @@ h4 {
 }
 
 .bg-banniere {
-  background-image: url("img/la-chouette-agence-banniere.jpg");
+  background-image: url("img/la-chouette-agence-banniere.webp");
 }
 
 .bg-presentation {
-  background-image: url("img/image-de-presentation.bmp");
+  background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
